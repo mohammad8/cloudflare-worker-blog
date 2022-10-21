@@ -1,5 +1,5 @@
 // 定义 Github 项目，文章会从这里读取
-const github_base = "kasuganosoras/frp-blog";
+const github_base = "mohammad8/frp-blog";
 
 // 设置站点信息
 var default_title	 = "SakuraFrp Blog - 樱花内网穿透官方博客";					// 站点标题（显示在浏览器标题栏）
